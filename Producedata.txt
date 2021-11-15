@@ -1,0 +1,45 @@
+Apples June-November
+Beets October-April
+Blackberries April-June
+Blueberries May-July
+Broccoli December-March
+Chinese Cabbage January-April
+Green Cabbage Year-Round
+Red Cabbage January-May
+Savoy Cabbage January-April
+Cantaloupes May-July; October-November
+Carrots Year-round
+Cauliflower November-April
+Celery December-April
+Fresh Cucumbers April-December
+Pickling Cucumbers April-December
+Dandelion November-April
+Grapefruit October-May
+Green Onions May-October
+Greens October-April
+Herbs Year-round
+Honeydew May-July; October-November
+Lettuce April-October
+Mushrooms Year-Round
+Kale November-April
+Kohlrabi November-April
+Onions March-August
+Sweet Onions March-May
+Oranges September-April
+Field Peas April-December
+Peaches April-August
+Pears June-September
+Pecans October-January
+Hot Peppers May-December
+Sweet Peppers May-June; August-December
+Persimmons August-November
+Potatoes April-September
+Pumpkins September-November
+Spinach November-April
+Squash April-November
+Sweet Potatoes August-May
+Tomatoes May-November
+Greenhouse Tomatoes Year-round
+Turnips Year-round
+Watermelons May-November
+Zucchini April-November
